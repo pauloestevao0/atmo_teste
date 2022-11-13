@@ -6,4 +6,5 @@ Principais ferramentas utilizadas:
   - Python
     - pandas;
     - requests;
+    - mysql.connector;
   
